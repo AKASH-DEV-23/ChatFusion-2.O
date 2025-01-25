@@ -1,24 +1,27 @@
-# 🌟 MERN Real-Time Chat Application
+# 🚀 Next.js Full-Stack Application
 
-A real-time chat application built with the MERN stack, featuring real-time messaging, user status, and modern UI styling.
+A modern full-stack application built with Next.js, PostgreSQL, and TypeScript.
 
 ---
 
 ## 🛠️ Tech Stack
-- 🖥️ **Frontend**: React, TailwindCSS, Daisy UI  
-- 🛠️ **Backend**: Node.js, Express  
-- 🗄️ **Database**: MongoDB  
-- 📡 **Real-Time**: Socket.io  
-- 🔒 **Authentication**: JWT  
-- 🌐 **Global State Management**: Zustand  
+- ⚛️ **Framework**: Next.js (App Router)  
+- 🗄️ **Database**: PostgreSQL with Prisma  
+- 🔒 **Authentication**: Clerk  
+- 🎨 **Styling**: Tailwind CSS, shadcn/ui  
+- 📤 **File Uploads**: UploadThing  
+- 📝 **Language**: TypeScript  
 
 ---
 
 ## ✨ Features
-- 🔑 **Authentication & Authorization**: Secure login with JWT.  
-- 👾 **Real-Time Messaging**: Instant communication using Socket.io.  
-- 🟢 **Online User Status**: Track active users in real time.  
-- 🐞 **Error Handling**: Robust error handling on both client and server.  
-- 🎨 **Modern UI**: Styled with TailwindCSS and Daisy UI.  
+- ⚙️ **Server & Client Components**  
+- 🌐 **Dynamic & Static Routes**  
+- 📡 **API Integration with Route Handlers**  
+- 🔄 **Data Fetching, Caching & Revalidation**  
+- 🔑 **Authentication & Authorization**  
+- ⚡ **Optimistic UI Updates**  
+- 📤 **File Uploads**  
+- ❗ **Custom Error Pages** (`loading.tsx`, `error.tsx`, `not-found.tsx`)  
 
 ---
